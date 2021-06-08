@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>导航</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1>自制网页导航<img src="images/dh.jpg" alt="导航" width="128" height="64"></h1>
+	<h3>by 林道浚</h3>
+	<form action="https://www.baidu.com/s">
+		<input type="text" name="wd"/><input type="submit"  value="百度一下"/>
+	</form>
+	<p><a href="https://www.baidu.com/">百度</a></p>
+	<p><a href="https://www.bilibili.com/">哔哩哔哩</a></p>
+	<p><a href="https://tieba.baidu.com/">百度贴吧</a></p>
+	<p><a href="https://thwiki.cc/">THB百科</a></p>
+	<p><a href="https://bbs.nyasama.com/">喵玉殿</a></p>
+	<p><a href="https://pan.baidu.com/">百度网盘</a>
+	<p><a href="https://www.runoob.com/">菜鸟教程</a> <a href="https://www.runoob.com/" target="nq_1">小窗进入</a><iframe src="html/nq1.html" width="1024" height="256" name="nq_1"></iframe></p></p>
+	<img src="images/lian.jpg">
+</html>
